@@ -7,6 +7,7 @@ Hobbies:
   - leather craft
 
  Occupation: Accountant
+ 
  Ambition: To be a remote Full-stack-Developer
 
  Married
